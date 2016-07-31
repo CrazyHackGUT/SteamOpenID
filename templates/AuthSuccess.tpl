@@ -14,7 +14,7 @@
 					dataType: 'json',
 					success: function(data, textStatus) {
 						document.getElementById("data-sid64").innerHTML = data['SteamID64'];
-						document.getElementById("data-sid2").innerHTML = data['SteamID2'];
+						document.getElementById("data-sid2").innerHTML = data['SteamID2'].replace("STEAM_1", "STEAM_0");
 						document.getElementById("data-sid3").innerHTML = data['SteamID3'];
 					}
 				});
