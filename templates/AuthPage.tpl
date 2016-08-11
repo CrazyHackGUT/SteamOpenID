@@ -45,7 +45,6 @@
 								<tr>
 									<td class="tText"><center>
 										<a role="button" class="btn btn-primary btn-sm" href="#" onClick="Auth()"><span class="glyphicon glyphicon-user" aria-hidden="true"></span> Авторизоваться</a>
-										<a role="button" class="btn btn-default btn-sm" href="http://crazyhackgut.ru/openid_steam/" target="_blank"><span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span> Как это работает?</a>
 										<a role="button" class="btn btn-info btn-sm" href="https://github.com/CrazyHackGUT/SteamOpenID" target="_blank"><span class="glyphicon glyphicon-hdd" aria-hidden="true"></span> Открыть репозиторий на GitHub</a>
 									</center></td>
 								</tr>

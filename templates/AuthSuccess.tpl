@@ -6,7 +6,7 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
 		
 		<!-- Additional data JS -->
-		<script type="text/javascript" src="http://crazyhackgut.ru/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+		<script type="text/javascript" src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
 		<script>
 			var LoadSteamID = false;
 			var LoadMainData = false;
@@ -103,7 +103,6 @@
 								</tr>
 								<tr>
 									<td class="tText"><center style="padding-top: 5px;">
-										<a role="button" class="btn btn-default btn-sm" href="http://crazyhackgut.ru/openid_steam/" target="_blank"><span class="glyphicon glyphicon-question-sign" aria-hidden="true"></span> Как это работает?</a>
 										<a role="button" class="btn btn-info btn-sm" href="https://github.com/CrazyHackGUT/SteamOpenID" target="_blank"><span class="glyphicon glyphicon-hdd" aria-hidden="true"></span> Открыть репозиторий на GitHub</a>
 									</center></td>
 								</tr>
